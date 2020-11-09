@@ -10,4 +10,7 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 -   :thinking: Working on CMU 15-445 and MIT 6.824
 ---
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
