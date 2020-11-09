@@ -1,6 +1,6 @@
 ## Hey, bbbearxyz here! :wave:
 
-<img align="right" alt="bbbearxyz's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=bbbearxyz&show_icons=true">
+<img align="right" alt="bbbearxyz's github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=bbbearxyz&show_icons=true">
 
 I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 
