@@ -8,6 +8,5 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 -   :pencil2: Mac OS / Clion
 -   :seedling: Preparing for developing a RPC in C language 
 -   :thinking: Working on CMU 15-445 and MIT 6.824
-
 ---
 
