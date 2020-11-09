@@ -7,7 +7,7 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 -   :hammer_and_pick:    know a little in Go and C++
 -   :pencil2: Mac OS / Clion
 -   :seedling: Preparing for developing a RPC in C language 
--   :hinking: Working on CMU 15-445 and MIT 6.824
+-   :thinking: Working on CMU 15-445 and MIT 6.824
 
 ---
 
