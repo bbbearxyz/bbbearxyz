@@ -11,10 +11,10 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 ---
 <!--START_SECTION:waka-->
 ```text
-Rust         1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Java         46 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.21 % 
-XML          31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-TOML         30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-JavaScript   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Java   1 hr 21 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.71 % 
+Rust   1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.31 % 
+XML    34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+TOML   30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+HTML   30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 <!--END_SECTION:waka-->
