@@ -11,8 +11,8 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 ---
 <!--START_SECTION:waka-->
 ```text
-Go         6 hrs 7 mins    ███████████████████████░░   92.55 % 
-Markdown   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-C++        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Go         6 hrs 1 min     ███████████████████████░░   92.44 % 
+Markdown   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C++        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
