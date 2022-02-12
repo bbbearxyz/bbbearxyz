@@ -11,9 +11,9 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 ---
 <!--START_SECTION:waka-->
 ```text
-CMake      26 mins         ███████████████▓░░░░░░░░░   63.25 % 
-C          8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-C++        3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Other      3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+C++        5 hrs 31 mins   ███████████████▓░░░░░░░░░   62.86 % 
+C          2 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 % 
+CMake      27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
