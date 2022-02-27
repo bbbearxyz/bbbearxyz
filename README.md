@@ -10,11 +10,12 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 -   :thinking: Working on CMU 15-445 and MIT 6.824
 ---
 <!--START_SECTION:waka-->
+
 ```text
-C++        4 hrs 36 mins   ███████████████████████░░   92.58 % 
-C          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-CMake      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+C++           4 hrs 36 mins   ███████████████████████░░   92.58 %
+C             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+CMake         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
+
 <!--END_SECTION:waka-->
