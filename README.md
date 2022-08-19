@@ -12,11 +12,11 @@ I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
 <!--START_SECTION:waka-->
 
 ```text
-Go                17 hrs 4 mins   █████████████████████████   99.41 %
-protobuf          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Go                17 hrs 4 mins   █████████████████████████   99.57 %
+protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 GoYacc File       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
